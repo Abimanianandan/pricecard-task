@@ -13,7 +13,8 @@ body{
 .card:hover{
   transform:scale(1.03);
   border: 3px solid black;
+  .btn{
+    background-color: blue;
+  }
 }
-.btn:hover{
-  background-color: green;
-}
+
